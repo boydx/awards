@@ -49,16 +49,16 @@ Previous [recipients](https://geography.as.uky.edu/geography-department-award-re
 
 The UGC is responsible for six awards presented at the annual GiB event. The Schwendeman award is based on GPA. The remaining five awards are based on nominations and are juried by the UGC. Award presentations at the GiB event are made by the UGC Chair and DUS.
 
-The UGC Chair has wide discretion in administering the awarding process. It is recommended that the following guidelines be followed:
+The UGC Chair has wide discretion in administering the awarding process. It is recommended that these guidelines be followed:
 
 * Students can self-nominate, except for the Raitz and Geoghegan awards.
-* Students can only receive two awards per year. Therefore, they can only be nominated for two awards. If a student wins the Schwendeman award, for example,and they have been nominated for (and then win) two other awards, the UGC will decide which two awards that student receives.
-* Students can not be nominated for the same award in consecutive years.
+* Students can only receive two awards per year. Therefore, they should only be nominated for two awards. If a student does receive more than two nominations and wins, the UGC Chair should determine which award(s) the student will receive.
+* Except for the Schwendeman Award, students can not be win the same award in consecutive years.
 * Co-authored works can be nominated for awards, but the submission must be accompanied by written approval from each author. If a co-author is eligible for the award, they should be nominated. Any cash award will be split(?) between the nominated authors.
  
 ### 🏆 The Joseph R. Schwendeman Award
     
-Student must be a declared geography major with at least 60 hours of undergraduate course work and 18 hours in geography course credits. This award will be presented to the student with the highest grade point average for overall coursework as determined by Arts and Sciences or Registrar's records. In case of a tie, the award will go the student with the highest GPA in geography courses. The student's name will be engraved on a special plaque that is displayed in the departmental office. Named for the Department's first Chairperson.
+This award is determined by a student's GPA. Student must be a declared geography major with at least 60 hours of undergraduate course work and 18 hours in geography course credits. This award will be presented to the student with the highest grade point average for overall coursework as determined by Arts and Sciences or Registrar's records. In case of a tie, the award will go the student with the highest GPA in geography courses. The student's name will be engraved on a special plaque that is displayed in the departmental office. Named for the Department's first Chairperson.
 
 ### 🏆 Raitz Scholarship
 
