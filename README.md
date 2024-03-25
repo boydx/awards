@@ -7,6 +7,7 @@ DRAFT: April 25, 2023
 
 - [Undergraduate Committee awards and grants handbook](#undergraduate-committee-awards-and-grants-handbook)
     - [Table of Contents](#table-of-contents)
+    - [Call for award nominations](#call-for-award-nominations)
     - [Introduction](#introduction)
     - [Undergraduate GiB awards](#undergraduate-gib-awards)
         - [🏆 The Joseph R. Schwendeman Award](#🏆-the-joseph-r-schwendeman-award)
@@ -26,6 +27,10 @@ DRAFT: April 25, 2023
         - [Contact](#contact)
 
 <!-- /TOC -->
+
+## Call for award nominations
+
+Use this PDF to promote nominations for the awards: [Call for award nominations](call-for-awards.pdf).
 
 ## Introduction
 
@@ -51,7 +56,7 @@ The UGC is responsible for six awards presented at the annual GiB event. The Sch
 
 The UGC Chair has wide discretion in administering the awarding process. It is recommended that these guidelines be followed:
 
-* Students can self-nominate, except for the Raitz and Geoghegan awards.
+* Students can self-nominate, except for the Raitz, Schwendeman and Geoghegan awards.
 * Students can only receive two awards per year. Therefore, they should only be nominated for two awards. If a student does receive more than two nominations and wins, the UGC Chair should determine which award(s) the student will receive.
 * Except for the Schwendeman Award, students can not be win the same award in consecutive years.
 * Co-authored works can be nominated for awards, but the submission must be accompanied by written approval from each author. If a co-author is eligible for the award, they should be nominated. Any cash award will be split(?) between the nominated authors.
@@ -70,7 +75,7 @@ Student must be a declared geography major with at least 60 hours of undergradua
  
 ### 🏆 Gyula Pauer Cartography Project Award 
 
-Student must be a declared geography major with at least 60 hours of undergraduate course work. Students who wish to be considered for this award should assemble a portfolio of maps prepared in conjunction with any geography class, appropriate internship, or independent study courses they have taken. The quality of work submitted is the principal criterion used in making the award. This means overall quality, indications of technical maturity, and an indication of potential as a professional. This recognition will include a cash award. Named for the Department’s first Cartography Lab Director.
+Student must be a declared geography major with at least 60 hours of undergraduate course work. Students who wish to be considered for this award should assemble a portfolio of maps prepared in conjunction with any geography class, appropriate internship, or independent study courses they have taken. The quality of work submitted is the principal criterion used in making the award. This means overall quality, indications of technical maturity, and an indication of potential as a professional. This recognition will include a cash award. Named for the Department’s first Cartography Lab Director. This recognition includes a cash award.
 
 ### 🏆 Withington Human/Cultural Geography Award
 
